@@ -1,4 +1,5 @@
-
+#this exercise is meant to learn about the f"" command, as well as how to mind spaces in codes
+#two ways to draw a new line: use \n or print()
 name = "Tim Tester"
 age = 20
 skill1 = "python"
